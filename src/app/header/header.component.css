@@ -1,0 +1,20 @@
+.header{
+  padding-bottom: 20px;
+  background-color:navajowhite;
+}
+
+
+a{
+  font-weight: 500;
+  margin-left: 2cm;
+  border-radius: 5px;
+  width: 3cm;
+  text-align: center;
+}
+
+a:hover{
+  background-color:rgb(251, 255, 176);
+
+}
+
+

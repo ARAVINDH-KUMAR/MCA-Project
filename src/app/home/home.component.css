@@ -1,0 +1,12 @@
+.header{
+  display: flex;
+  flex-direction: row-reverse;
+}
+button{
+  margin: 15px 15px 15px 15px;
+  background-color:  aquamarine;
+  width: 80px;
+  text-align: center;
+}
+
+
