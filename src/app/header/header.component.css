@@ -1,20 +1,19 @@
 .header{
   padding-bottom: 20px;
-  background-color:navajowhite;
+  background-color:rgb(246, 195, 68);
 }
 
 
 a{
   font-weight: 500;
-  margin-left: 2cm;
+  margin-left: 20px;
   border-radius: 5px;
   width: 3cm;
   text-align: center;
 }
 
-a:hover{
+/* a:hover{
   background-color:rgb(251, 255, 176);
-
-}
+} */
 
 
